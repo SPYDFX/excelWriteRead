@@ -1,0 +1,9 @@
+F:\spydf\soft\excelWriteRead\excelWriteRead\bin\Debug\excelWriteRead.exe.config
+F:\spydf\soft\excelWriteRead\excelWriteRead\obj\Debug\excelWriteRead.csprojResolveAssemblyReference.cache
+F:\spydf\soft\excelWriteRead\excelWriteRead\obj\Debug\excelWriteRead.Properties.Resources.resources
+F:\spydf\soft\excelWriteRead\excelWriteRead\obj\Debug\excelWriteRead.csproj.GenerateResource.Cache
+F:\spydf\soft\excelWriteRead\excelWriteRead\bin\Debug\excelWriteRead.exe
+F:\spydf\soft\excelWriteRead\excelWriteRead\bin\Debug\excelWriteRead.pdb
+F:\spydf\soft\excelWriteRead\excelWriteRead\obj\Debug\excelWriteRead.Form1.resources
+F:\spydf\soft\excelWriteRead\excelWriteRead\obj\Debug\excelWriteRead.exe
+F:\spydf\soft\excelWriteRead\excelWriteRead\obj\Debug\excelWriteRead.pdb
